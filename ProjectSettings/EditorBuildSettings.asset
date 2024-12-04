@@ -6,8 +6,23 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/MainMenu.unity
+    guid: c7959d454e54af6469df149e36c7b52e
+  - enabled: 1
+    path: Assets/Scenes/HolyMoly.unity
+    guid: 934edefe571a0cc409c140406d9ccc5c
+  - enabled: 1
+    path: Assets/Scenes/IdGame.unity
+    guid: acc293a10df75f140bee506de19787ea
+  - enabled: 1
+    path: Assets/Scenes/EgoGame.unity
+    guid: 80a361dc7ca1b9348bc361e39b98dece
+  - enabled: 1
+    path: Assets/Scenes/SuperegoGame.unity
+    guid: 826928bb39011ee4196a2b9099067add
+  - enabled: 1
+    path: Assets/Scenes/TransendGame.unity
+    guid: 882bcff0bbef5ea4aac60ff1d4c9b44a
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7,
       type: 2}

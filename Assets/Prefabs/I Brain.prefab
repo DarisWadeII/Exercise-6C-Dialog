@@ -15,9 +15,9 @@ GameObject:
   - component: {fileID: 8343926737257661022}
   - component: {fileID: 670015201448672095}
   - component: {fileID: 3690734170110708071}
-  m_Layer: 6
+  m_Layer: 3
   m_Name: I Brain
-  m_TagString: enemy
+  m_TagString: ienemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -179,7 +179,7 @@ GameObject:
   - component: {fileID: 453121515060600607}
   - component: {fileID: 2965628161905723716}
   - component: {fileID: 1023472894329180946}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -284,7 +284,7 @@ GameObject:
   - component: {fileID: 6907567556676950390}
   - component: {fileID: 275301345717997017}
   - component: {fileID: 4481711836294211122}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Sphere (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -389,7 +389,7 @@ GameObject:
   - component: {fileID: 9033414293081348914}
   - component: {fileID: 6877536284403654192}
   - component: {fileID: 5577613397619654144}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Sphere (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -494,7 +494,7 @@ GameObject:
   - component: {fileID: 1824250844473803524}
   - component: {fileID: 8971676600825660705}
   - component: {fileID: 1078065092080924100}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Sphere (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -6,11 +6,15 @@ TagManager:
   tags:
   - CinemachineTarget
   - npc
+  - enemy
+  - ienemy
+  - eenemy
+  - senemy
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - enemy
   - Water
   - UI
   - 
